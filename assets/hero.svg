@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Trần Trung Thông — Developer Portfolio</title>
+<desc id="desc">Premium dark blue developer header featuring mobile technology and network engineering visualizations.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060e1b"/><stop offset=".54" stop-color="#0b1530"/><stop offset="1" stop-color="#091024"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#40e5e2"/><stop offset=".55" stop-color="#6da8ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <linearGradient id="text" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#effaff"/><stop offset="1" stop-color="#88e6f0"/></linearGradient>
+  <radialGradient id="haze"><stop stop-color="#24bcef" stop-opacity=".37"/><stop offset="1" stop-color="#24bcef" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="soft"/><feMerge><feMergeNode in="soft"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clip"><rect width="1200" height="370" rx="24" /></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="370" fill="url(#bg)"/>
+<circle cx="935" cy="120" r="285" fill="url(#haze)" opacity=".6"/>
+<circle cx="1115" cy="340" r="240" fill="#7b51db" opacity=".12" filter="url(#blur)"/>
+<g stroke="#6ca0d6" stroke-opacity=".09" stroke-width="1"><path d="M0 0V370" />
+<path d="M40 0V370" />
+<path d="M80 0V370" />
+<path d="M120 0V370" />
+<path d="M160 0V370" />
+<path d="M200 0V370" />
+<path d="M240 0V370" />
+<path d="M280 0V370" />
+<path d="M320 0V370" />
+<path d="M360 0V370" />
+<path d="M400 0V370" />
+<path d="M440 0V370" />
+<path d="M480 0V370" />
+<path d="M520 0V370" />
+<path d="M560 0V370" />
+<path d="M600 0V370" />
+<path d="M640 0V370" />
+<path d="M680 0V370" />
+<path d="M720 0V370" />
+<path d="M760 0V370" />
+<path d="M800 0V370" />
+<path d="M840 0V370" />
+<path d="M880 0V370" />
+<path d="M920 0V370" />
+<path d="M960 0V370" />
+<path d="M1000 0V370" />
+<path d="M1040 0V370" />
+<path d="M1080 0V370" />
+<path d="M1120 0V370" />
+<path d="M1160 0V370" />
+<path d="M1200 0V370" /><path d="M0 0H1200" />
+<path d="M0 40H1200" />
+<path d="M0 80H1200" />
+<path d="M0 120H1200" />
+<path d="M0 160H1200" />
+<path d="M0 200H1200" />
+<path d="M0 240H1200" />
+<path d="M0 280H1200" />
+<path d="M0 320H1200" />
+<path d="M0 360H1200" /></g>
+<circle cx="252" cy="28" r="1.1" fill="#78a7d4" opacity="0.46" />
+<circle cx="525" cy="130" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="1140" cy="60" r="1.1" fill="#78a7d4" opacity="0.6" />
+<circle cx="89" cy="31" r="0.6" fill="#78a7d4" opacity="0.32" />
+<circle cx="500" cy="274" r="1.1" fill="#78a7d4" opacity="0.22" />
+<circle cx="1173" cy="117" r="1.1" fill="#78a7d4" opacity="0.6" />
+<circle cx="475" cy="245" r="1.1" fill="#78a7d4" opacity="0.46" />
+<circle cx="37" cy="97" r="1.1" fill="#78a7d4" opacity="0.6" />
+<circle cx="720" cy="158" r="0.6" fill="#78a7d4" opacity="0.32" />
+<circle cx="713" cy="68" r="0.6" fill="#78a7d4" opacity="0.6" />
+<circle cx="222" cy="199" r="0.8" fill="#78a7d4" opacity="0.46" />
+<circle cx="112" cy="251" r="1.1" fill="#78a7d4" opacity="0.22" />
+<circle cx="799" cy="56" r="1.1" fill="#78a7d4" opacity="0.46" />
+<circle cx="764" cy="311" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="117" cy="132" r="0.8" fill="#78a7d4" opacity="0.22" />
+<circle cx="500" cy="67" r="0.8" fill="#78a7d4" opacity="0.46" />
+<circle cx="952" cy="341" r="0.8" fill="#78a7d4" opacity="0.32" />
+<circle cx="782" cy="197" r="0.6" fill="#78a7d4" opacity="0.46" />
+<circle cx="170" cy="327" r="1.1" fill="#78a7d4" opacity="0.32" />
+<circle cx="1117" cy="141" r="0.6" fill="#78a7d4" opacity="0.6" />
+<circle cx="801" cy="154" r="1.1" fill="#78a7d4" opacity="0.32" />
+<circle cx="688" cy="44" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="670" cy="221" r="0.8" fill="#78a7d4" opacity="0.22" />
+<circle cx="456" cy="306" r="1.1" fill="#78a7d4" opacity="0.46" />
+<circle cx="459" cy="271" r="0.8" fill="#78a7d4" opacity="0.6" />
+<circle cx="316" cy="151" r="0.6" fill="#78a7d4" opacity="0.32" />
+<circle cx="1173" cy="291" r="0.8" fill="#78a7d4" opacity="0.6" />
+<circle cx="841" cy="201" r="0.6" fill="#78a7d4" opacity="0.32" />
+<circle cx="1067" cy="268" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="248" cy="94" r="1.1" fill="#78a7d4" opacity="0.32" />
+<circle cx="888" cy="321" r="0.6" fill="#78a7d4" opacity="0.6" />
+<circle cx="805" cy="321" r="0.8" fill="#78a7d4" opacity="0.46" />
+<circle cx="1157" cy="21" r="1.1" fill="#78a7d4" opacity="0.22" />
+<circle cx="1123" cy="152" r="1.1" fill="#78a7d4" opacity="0.46" />
+<circle cx="252" cy="166" r="0.8" fill="#78a7d4" opacity="0.32" />
+<circle cx="953" cy="17" r="1.1" fill="#78a7d4" opacity="0.46" />
+<circle cx="1049" cy="107" r="1.1" fill="#78a7d4" opacity="0.22" />
+<circle cx="635" cy="343" r="1.1" fill="#78a7d4" opacity="0.32" />
+<circle cx="337" cy="207" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="687" cy="266" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="767" cy="173" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="517" cy="306" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="1019" cy="51" r="1.1" fill="#78a7d4" opacity="0.32" />
+<circle cx="286" cy="259" r="1.1" fill="#78a7d4" opacity="0.32" />
+<circle cx="566" cy="286" r="1.1" fill="#78a7d4" opacity="0.6" />
+<circle cx="457" cy="292" r="1.1" fill="#78a7d4" opacity="0.32" />
+<circle cx="662" cy="220" r="1.1" fill="#78a7d4" opacity="0.46" />
+<circle cx="921" cy="280" r="0.8" fill="#78a7d4" opacity="0.22" />
+<circle cx="531" cy="131" r="0.6" fill="#78a7d4" opacity="0.46" />
+<circle cx="67" cy="317" r="1.1" fill="#78a7d4" opacity="0.32" />
+<circle cx="475" cy="19" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="492" cy="50" r="0.6" fill="#78a7d4" opacity="0.46" />
+<circle cx="169" cy="279" r="0.6" fill="#78a7d4" opacity="0.46" />
+<circle cx="1018" cy="125" r="1.1" fill="#78a7d4" opacity="0.32" />
+<circle cx="992" cy="140" r="0.8" fill="#78a7d4" opacity="0.6" />
+<circle cx="413" cy="64" r="0.6" fill="#78a7d4" opacity="0.6" />
+<circle cx="749" cy="232" r="0.8" fill="#78a7d4" opacity="0.6" />
+<circle cx="134" cy="66" r="0.6" fill="#78a7d4" opacity="0.6" />
+<circle cx="718" cy="71" r="0.6" fill="#78a7d4" opacity="0.32" />
+<circle cx="413" cy="290" r="0.8" fill="#78a7d4" opacity="0.32" />
+<circle cx="888" cy="109" r="0.8" fill="#78a7d4" opacity="0.6" />
+<circle cx="535" cy="54" r="0.8" fill="#78a7d4" opacity="0.22" />
+<circle cx="127" cy="292" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="508" cy="101" r="0.8" fill="#78a7d4" opacity="0.6" />
+<circle cx="1009" cy="125" r="0.8" fill="#78a7d4" opacity="0.22" />
+<circle cx="361" cy="210" r="0.6" fill="#78a7d4" opacity="0.6" />
+<circle cx="567" cy="248" r="0.8" fill="#78a7d4" opacity="0.6" />
+<circle cx="1162" cy="265" r="0.6" fill="#78a7d4" opacity="0.32" />
+<circle cx="631" cy="127" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="666" cy="45" r="0.6" fill="#78a7d4" opacity="0.6" />
+<circle cx="1053" cy="287" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="1064" cy="57" r="0.6" fill="#78a7d4" opacity="0.22" />
+<circle cx="163" cy="136" r="0.8" fill="#78a7d4" opacity="0.22" />
+<circle cx="528" cy="312" r="1.1" fill="#78a7d4" opacity="0.22" />
+<circle cx="191" cy="230" r="1.1" fill="#78a7d4" opacity="0.46" />
+<!-- Top editorial label -->
+<rect x="55" y="35" rx="13" width="242" height="28" fill="#0d2a36" stroke="#1b7a88" stroke-opacity=".7"/>
+<circle cx="71" cy="49" r="4.7" fill="#54f8be"/>
+<text x="84" y="54" fill="#83eee5" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">DEVELOPER PORTFOLIO</text>
+<text x="56" y="135" fill="url(#text)" font-family="DejaVu Sans,Arial,sans-serif" font-size="49" font-weight="800" letter-spacing="-1.7">TRẦN TRUNG THÔNG</text>
+<rect x="57" y="152" width="355" height="3" rx="2" fill="url(#line)"/>
+<text x="57" y="193" fill="#8fdcff" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="1">MOBILE DEVELOPER</text>
+<text x="279" y="193" fill="#61738e" font-family="DejaVu Sans,Arial,sans-serif" font-size="18">/</text>
+<text x="303" y="193" fill="#b7c5e0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing=".8">SYSTEMS ENTHUSIAST</text>
+<text x="57" y="232" fill="#9fb4cb" font-family="DejaVu Sans,Arial,sans-serif" font-size="16">Crafting thoughtful apps. Engineering reliable solutions.</text>
+<!-- technology pills -->
+<rect x="56" y="265" width="168" height="34" rx="9" fill="#112d42" stroke="#1b5e7b"/>
+<circle cx="74" cy="282" r="5" fill="#6de9fc"/>
+<text x="88" y="288" fill="#d6f6ff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="12">KOTLIN · ANDROID</text>
+<rect x="234" y="265" width="147" height="34" rx="9" fill="#252041" stroke="#55438f"/>
+<circle cx="251" cy="282" r="5" fill="#b49aff"/>
+<text x="265" y="288" fill="#e6d9ff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="12">FLUTTER · DART</text>
+<rect x="391" y="265" width="124" height="34" rx="9" fill="#142b35" stroke="#286376"/>
+<circle cx="408" cy="282" r="5" fill="#65e5d1"/>
+<text x="422" y="288" fill="#c8eeea" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="12">C# · .NET</text>
+<text x="57" y="338" fill="#5c7693" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" letter-spacing="2">UTC2  •  VIETNAM  •  BUILD &amp; LEARN</text>
+<!-- decorative dashed flow right -->
+<path d="M690 82 H786 Q814 82 814 109 V135" fill="none" stroke="#42d9ee" stroke-width="2" stroke-dasharray="6 9" opacity=".54"/>
+<path d="M883 298 V323 H1060" fill="none" stroke="#ac8cfb" stroke-width="2" stroke-dasharray="6 8" opacity=".48"/>
+<circle cx="690" cy="82" r="6" fill="#39dcf2"/><circle cx="1060" cy="323" r="6" fill="#a88ff4"/>
+<!-- floating code panel -->
+<rect x="695" y="128" width="145" height="116" rx="15" fill="#111d35" stroke="#4775aa" stroke-opacity=".6"/>
+<rect x="709" y="143" width="117" height="17" rx="5" fill="#1b2d48"/>
+<circle cx="720" cy="151" r="3" fill="#ff7a91"/><circle cx="732" cy="151" r="3" fill="#ffc671"/><circle cx="744" cy="151" r="3" fill="#63dfb3"/>
+<text x="714" y="186" font-family="DejaVu Sans Mono,monospace" font-size="12" fill="#71e9f4">&lt;build&gt;</text>
+<rect x="716" y="197" width="85" height="5" rx="2" fill="#436788"/>
+<rect x="716" y="211" width="57" height="5" rx="2" fill="#986fc7"/>
+<rect x="716" y="225" width="73" height="5" rx="2" fill="#3d968f"/>
+<!-- phone -->
+<rect x="858" y="45" width="187" height="284" rx="29" fill="#040d19" stroke="#4a7fb5" stroke-width="3"/>
+<rect x="868" y="55" width="167" height="263" rx="22" fill="#0f2235" stroke="#173b55"/>
+<rect x="918" y="63" width="65" height="13" rx="6" fill="#030a17"/>
+<text x="882" y="103" fill="#6cddf3" font-family="DejaVu Sans Mono,monospace" font-size="12" font-weight="700">SPACEFIT / AR</text>
+<rect x="882" y="119" width="138" height="131" rx="12" fill="#122f43" stroke="#306079"/>
+<g stroke="#68e8ee" stroke-width="2" fill="none" opacity=".9"><path d="M905 148h18m-18 0v18M998 148h-18m18 0v18M905 224h18m-18 0v-18M998 224h-18m18 0v-18"/></g>
+<!-- furniture/room perspective -->
+<path d="M914 209l38 17 44-17-38-17z" fill="#154a65" stroke="#62dbf5" stroke-width="1.5"/>
+<path d="M923 187l30 12 31-12-29-13z" fill="#396087" stroke="#a6eaff" stroke-width="1.5"/>
+<path d="M923 187v22l30 13v-23z" fill="#21395b" stroke="#a6eaff" stroke-width="1.5"/>
+<path d="M953 199v23l31-13v-22z" fill="#182b45" stroke="#a6eaff" stroke-width="1.5"/>
+<circle cx="1010" cy="136" r="3" fill="#66ffd7"/><circle cx="891" cy="233" r="3" fill="#66ffd7"/>
+<rect x="884" y="262" width="135" height="8" rx="4" fill="#24445d"/>
+<rect x="884" y="262" width="101" height="8" rx="4" fill="url(#line)"/>
+<text x="884" y="292" fill="#a9c3dd" font-family="DejaVu Sans Mono,monospace" font-size="10">3D • VISION • UX</text>
+<!-- far-right network stack -->
+<g stroke="#6dbbf7" stroke-width="1.5" opacity=".72" fill="none"><path d="M1081 108 L1140 74 L1170 125 L1120 158 L1081 108Z"/><path d="M1140 74 L1152 203 L1120 158"/></g>
+<g fill="#66d4e9"><circle cx="1081" cy="108" r="6"/><circle cx="1140" cy="74" r="5"/><circle cx="1170" cy="125" r="5"/><circle cx="1120" cy="158" r="6"/><circle cx="1152" cy="203" r="4"/></g>
+<text x="1084" y="236" font-family="DejaVu Sans Mono,monospace" fill="#647b9f" font-size="11">SYS / NET</text>
+<rect x="1" y="1" width="1198" height="368" rx="23" fill="none" stroke="#275171" stroke-opacity=".65" stroke-width="2"/>
+<rect x="0" y="365" width="1200" height="5" fill="url(#line)"/>
+</g></svg>
