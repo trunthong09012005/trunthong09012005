@@ -8,7 +8,7 @@
 <div align="center">
 
   <!-- Lưu bức ảnh banner mới về thư mục ./assets/hero.png (hoặc đổi lại thành hero.svg nếu bạn đã convert) -->
-  <img src="./assets/hero.png" width="100%" alt="Trần Trung Thông — Full-Stack Developer & Systems Enthusiast" />
+  <img src="./assets/banner.png" width="100%" alt="Trần Trung Thông — Full-Stack Developer & Systems Enthusiast" />
 
   <br /><br />
 
