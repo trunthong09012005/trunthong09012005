@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  <!-- Lưu bức ảnh banner mới về thư mục ./assets/hero.png (hoặc đổi lại thành hero.svg nếu bạn đã convert) -->
+  <!-- Đã cập nhật ảnh banner mới với tên banner.png trong thư mục assets -->
   <img src="./assets/banner.png" width="100%" alt="Trần Trung Thông — Full-Stack Developer & Systems Enthusiast" />
 
   <br /><br />
@@ -37,10 +37,6 @@
 - 🖥️ **Systems & Infra:** Networking fundamentals, system administration, databases, and containerized deployments.
 - 🎯 **Goal:** Turn real-world problems into reliable, accessible, and polished end-to-end software solutions.
 - 🌏 **Based in:** Vietnam.
-
-<!-- OPTIONAL: Add an accurate CV, personal site or internship status here.
-     Example: 📄 [My CV](https://your-real-cv-link)
--->
 
 ## 🧰 Technical Toolbox
 
@@ -134,11 +130,6 @@ A **C# Windows Forms** system designed with comprehensive modules for member rec
   <a href="https://github.com/trunthong09012005?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-Explore_all_repositories-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-
-  <!-- Recommended once you have real URLs:
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  -->
 
   <br /><br />
   <img src="./assets/footer.svg" width="100%" alt="Build with purpose, keep learning, ship with care" />
